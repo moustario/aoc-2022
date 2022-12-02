@@ -42,4 +42,4 @@ const main = () => {
   );
 };
 
- main();
+main();
