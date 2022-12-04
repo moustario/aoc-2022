@@ -4,7 +4,7 @@ Trying AOC for the first time, not aiming to do them all or the fatest. The
 solutions are kinda messy, the repo is more of a personal log of my progress
 than a proper way to solve the puzzles.
 
-https://adventofcode.com/2022/
+Puzzles available at : https://adventofcode.com/2022
 
 ## Day 1
 
