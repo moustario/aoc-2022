@@ -1,4 +1,4 @@
-import { writeJson } from "https://deno.land/x/jsonfile/mod.ts";
+import { writeJson } from "https://deno.land/x/jsonfile@1.0.0/mod.ts";
 
 const priorityList = [
   "a",
