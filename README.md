@@ -24,6 +24,12 @@ There is now an arg to change input file, at the root of the repo :
 
 > deno run --allow-read --allow-write ./day-3/index.ts ./day-3/input.txt
 
+## Day 4
+
+At the root of the repo :
+
+> deno run --allow-read ./day-4/index.ts ./day-4/input.txt
+
 ## Troubleshooting
 
 On Ubuntu 22 if error `Command 'deno' not found`:
